@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/hc5a1YP.png" group-title="News",FOX News Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="News",BBC WORLD NEWS SD
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/4337?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MSNBC HD
-http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/36232?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/bD9jUgK.png" group-title="Undefined",CNN Int. (UK)
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8?checkedby:iptvcat.com

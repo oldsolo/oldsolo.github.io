@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/hc5a1YP.png" group-title="News",FOX News Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="News",BBC News HD
-http://exchangesat.com:8080/yrr3nG83/dmD631n/28306?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="News",CNN NEWS
-http://exchangesat.com:8080/yrr3nG83/dmD631n/20120?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="News",BBC WORLD NEWS SD
+http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/4337?checkedby:iptvcat.com

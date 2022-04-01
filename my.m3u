@@ -7,3 +7,9 @@ https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8?checke
 http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:0 tvg-country="CN" tvg-logo="" group-title="News",凤凰资讯
 http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 ,上海新闻综合HD
+http://140.207.241.2:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
+#EXTINF:-1 ,东方卫视HD
+http://140.207.241.2:8080/live/program/live/hddfws/4000000/mnf.m3u8
+#EXTINF:-1 ,东方卫视HD
+http://140.207.241.2:8080/live/program/live/hddfws/4000000/mnf.m3u8

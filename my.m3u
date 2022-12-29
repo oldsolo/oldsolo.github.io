@@ -7,13 +7,5 @@ https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8?checke
 http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:0 tvg-country="CN" tvg-logo="" group-title="News",凤凰资讯
 http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="News",上海新闻综合HD
-http://140.207.241.2:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="News",东方卫视HD
-http://140.207.241.2:8080/live/program/live/hddfws/4000000/mnf.m3u8
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="News",浙江卫视HD
-http://140.207.241.2:8080/live/program/live/zjwshd/4000000/mnf.m3u8
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="News",CCTV-5HD
-http://39.134.115.163:8080/PLTV/88888910/224/3221225648/index.m3u8
 #EXTINF:0 tvg-country="CN" tvg-logo="" group-title="News",CGTN Documentary
 https://livedoc.cgtn.com/1000d/prog_index.m3u8

@@ -1,11 +1,14 @@
 #EXTM3U
 #EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/hc5a1YP.png" group-title="News",FOX News Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="Crackle.us" tvg-logo="https://i.imgur.com/7vIsBfF.png" group-title="Movies",Crackle
-https://crackle-plex.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-id="ABCNewsAustralia.au" tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="News",ABC News
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:0 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://live.fanmingming.com/tv/CNN.png" group-title="News",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
 #EXTINF:0 tvg-country="CN" tvg-logo="" group-title="News",CGTN Documentary
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="News",CCTV-1
+http://stream10.fjtv.net/cctv1/playlist.m3u8?_upt=7fc900a71701095579
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="News",CCTV-3
+http://120.196.232.50:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226720/1.m3u8
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="News",东方卫视
+https://volc-stream.kksmg.com/live/dfws/index.m3u8?volcSecret=1fc721bc0901176a3026360fcbdf726c&volcTime=1701173507

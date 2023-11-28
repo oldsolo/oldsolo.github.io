@@ -1,4 +1,5 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+
 #EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/hc5a1YP.png" group-title="News",FOX News Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://live.fanmingming.com/tv/CNN.png" group-title="News",CNN
@@ -6,9 +7,9 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_10
 #EXTINF:0 tvg-country="CN" tvg-logo="" group-title="News",CGTN Documentary
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="News",CCTV-1
-http://stream10.fjtv.net/cctv1/playlist.m3u8?_upt=7fc900a71701095579
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="News",CCTV-3
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="综合",CCTV1
+http://stream10.fjtv.net/cctv1/playlist.m3u8?_upt=3a598a821701139078
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="综合",CCTV3
 http://120.196.232.50:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226720/1.m3u8
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="News",东方卫视
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="综合",东方卫视
 https://volc-stream.kksmg.com/live/dfws/index.m3u8?volcSecret=1fc721bc0901176a3026360fcbdf726c&volcTime=1701173507

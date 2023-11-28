@@ -11,5 +11,13 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 http://stream10.fjtv.net/cctv1/playlist.m3u8?_upt=3a598a821701139078
 #EXTINF:0 tvg-country="CN" tvg-logo="" group-title="综合",CCTV3
 http://120.196.232.50:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226720/1.m3u8
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="综合",CCTV8
+http://120.196.232.17:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226715/1.m3u8
 #EXTINF:0 tvg-country="CN" tvg-logo="" group-title="综合",东方卫视
 https://volc-stream.kksmg.com/live/dfws/index.m3u8?volcSecret=1fc721bc0901176a3026360fcbdf726c&volcTime=1701173507
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="综合",北京卫视
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1701170003&sign=deedd820315370fd17ae567f4e90a76b
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="综合",上海新闻
+https://volc-stream.kksmg.com/live/dfws/index.m3u8?volcSecret=15045dcfd55d141d5c4eaace36ef21d1&volcTime=1701262888
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="综合",上海纪实
+https://volc-stream.kksmg.com/live/dfws/index.m3u8?volcSecret=180eb9ddcb4f74ded9d21b3bbb225129&volcTime=1701262945

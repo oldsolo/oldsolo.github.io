@@ -8,7 +8,7 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_10
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
 #EXTINF:0 tvg-country="CN" tvg-logo="" group-title="综合",CCTV1
-http://stream10.fjtv.net/cctv1/playlist.m3u8?_upt=3a598a821701139078
+https://live-dtocnc-cdn.ysp.cctv.cn/7A5D52407EB8925EFFC24BE6543F20D1BFAC37363F76782DE3AC0CD185B1FB42FB0CA4592F386E86B033D979D41F22F24A1BDA0485C49F2D14A3CE3660F28922565F0FD26741E0CC0C798A5DAE39A702D0686E7599EE910D1C4886D302AB7C6B94B08D8F770239D7B24FCBF3835FE846/2000210103.m3u8
 #EXTINF:0 tvg-country="CN" tvg-logo="" group-title="综合",CCTV3
 http://120.196.232.50:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226720/1.m3u8
 #EXTINF:0 tvg-country="CN" tvg-logo="" group-title="综合",CCTV8

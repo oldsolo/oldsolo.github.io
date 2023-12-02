@@ -18,8 +18,8 @@ http://120.196.232.17:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226715/1.m3u8
 #EXTINF:0 tvg-country="CN" tvg-logo="" group-title="综合",东方卫视
 http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/dongfangwshd/3000/index.m3u8?&encrypt=
 #EXTINF:0 tvg-country="CN" tvg-logo="" group-title="综合",北京卫视
-http://61.148.223.18:8888/newlive/live/hls/19/live.m3u8
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="综合",上海新闻
-https://volc-stream.kksmg.com/live/dfws/index.m3u8?volcSecret=59b5289eb9ef855d98cb10abce946c40&volcTime=1701604739
+http://120.196.232.46:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226719/1.m3u8
 #EXTINF:0 tvg-country="CN" tvg-logo="" group-title="综合",上海纪实
-https://volc-stream.kksmg.com/live/dfws/index.m3u8?volcSecret=fae74c6c266c940ca114701cc5b2d2f4&volcTime=1701604709
+http://120.196.232.57:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226694/1.m3u8
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="综合",上海新闻综合
+https://volc-stream.kksmg.com/live/dfws/index.m3u8?volcSecret=59b5289eb9ef855d98cb10abce946c40&volcTime=1701604739

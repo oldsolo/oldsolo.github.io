@@ -1,14 +1,14 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 
-#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/hc5a1YP.png" group-title="News",FOX News Now
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="综合",FOX News Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://live.fanmingming.com/tv/CNN.png" group-title="News",CNN
+#EXTINF:0 tvg-id="CNN" tvg-name="CNN" tvg-logo="" group-title="综合",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="News",CGTN Documentary
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="综合",CGTN Documentary
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
 #EXTINF:0 tvg-country="CN" tvg-logo="" group-title="综合",CCTV1
-http://stream10.fjtv.net/cctv1/playlist.m3u8?_upt=7db5af871701182316
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 #EXTINF:0 tvg-country="CN" tvg-logo="" group-title="综合",CCTV3
 http://120.196.232.50:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226720/1.m3u8
 #EXTINF:0 tvg-country="CN" tvg-logo="" group-title="综合",CCTV4
@@ -16,10 +16,10 @@ http://120.196.232.27:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226725/1.m3u8
 #EXTINF:0 tvg-country="CN" tvg-logo="" group-title="综合",CCTV8
 http://120.196.232.17:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226715/1.m3u8
 #EXTINF:0 tvg-country="CN" tvg-logo="" group-title="综合",东方卫视
-https://volc-stream.kksmg.com/live/dfws/index.m3u8?volcSecret=1fc721bc0901176a3026360fcbdf726c&volcTime=1701173507
+http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/dongfangwshd/3000/index.m3u8?&encrypt=
 #EXTINF:0 tvg-country="CN" tvg-logo="" group-title="综合",北京卫视
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1701170003&sign=deedd820315370fd17ae567f4e90a76b
+http://61.148.223.18:8888/newlive/live/hls/19/live.m3u8
 #EXTINF:0 tvg-country="CN" tvg-logo="" group-title="综合",上海新闻
-https://volc-stream.kksmg.com/live/dfws/index.m3u8?volcSecret=15045dcfd55d141d5c4eaace36ef21d1&volcTime=1701262888
+https://volc-stream.kksmg.com/live/dfws/index.m3u8?volcSecret=59b5289eb9ef855d98cb10abce946c40&volcTime=1701604739
 #EXTINF:0 tvg-country="CN" tvg-logo="" group-title="综合",上海纪实
-https://volc-stream.kksmg.com/live/dfws/index.m3u8?volcSecret=180eb9ddcb4f74ded9d21b3bbb225129&volcTime=1701262945
+https://volc-stream.kksmg.com/live/dfws/index.m3u8?volcSecret=fae74c6c266c940ca114701cc5b2d2f4&volcTime=1701604709

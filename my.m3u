@@ -9,17 +9,9 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
 #EXTINF:0 tvg-country="CN" tvg-logo="" group-title="综合",CCTV1
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="综合",CCTV3
-http://120.196.232.50:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226720/1.m3u8
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="综合",CCTV4
-http://120.196.232.27:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226725/1.m3u8
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="综合",CCTV8
-http://120.196.232.17:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226715/1.m3u8
+
 #EXTINF:0 tvg-country="CN" tvg-logo="" group-title="综合",东方卫视
 http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/dongfangwshd/3000/index.m3u8?&encrypt=
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="综合",北京卫视
-http://120.196.232.46:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226719/1.m3u8
+
 #EXTINF:0 tvg-country="CN" tvg-logo="" group-title="综合",上海纪实
 http://120.196.232.57:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226694/1.m3u8
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="综合",上海新闻综合
-https://volc-stream.kksmg.com/live/dfws/index.m3u8?volcSecret=59b5289eb9ef855d98cb10abce946c40&volcTime=1701604739

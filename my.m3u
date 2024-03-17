@@ -1,14 +1,15 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="综合",FOX News Now
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="综合",FOX News Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="CNN" tvg-name="CNN" tvg-logo="" group-title="综合",CNN
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="综合",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
 #EXTINF:0 tvg-country="CN" tvg-logo="" group-title="综合",CGTN Documentary
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:0 tvg-country="CN" tvg-logo="" group-title="综合",NASA
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="综合",凤凰中文
+http://171.213.36.107:8888/udp/239.93.0.162:2192
 #EXTINF:0 tvg-country="CN" tvg-logo="" group-title="综合",CCTV1
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 

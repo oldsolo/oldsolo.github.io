@@ -8,8 +8,7 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_10
 https://0472.org/hls/cgtn.m3u8
 #EXTINF:0 tvg-country="CN" tvg-logo="" group-title="综合",CGTN Documentary
 https://0472.org/hls/cgtnd.m3u8
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="综合",NASA
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+
 
 
 #EXT-X-ENDLIST

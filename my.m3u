@@ -10,5 +10,11 @@ https://0472.org/hls/cgtn.m3u8
 https://0472.org/hls/cgtnd.m3u8
 
 
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="News",东方卫视
+http://39.164.160.249:9901/tsfile/live/0107_1.m3u8
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="News",广东卫视
+http://39.164.160.249:9901/tsfile/live/0125_1.m3u8
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="News",CCTV2
+http://39.164.160.249:9901/tsfile/live/0002_1.m3u8
 
 #EXT-X-ENDLIST

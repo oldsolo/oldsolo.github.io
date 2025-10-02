@@ -2,141 +2,141 @@
   "urls": [
     {
       "url": "https://7337.kstore.space/kjtv/%E8%87%AA%E7%94%A8%E6%B5%8B%E8%AF%95.json",
-      "name": "ðŸš€å¤©å¾®å½±çº¿"
+      "name": "🚀天微影线"
     },
     {
       "url": "https://11256.kstore.space/qxys/%E7%A6%81%E6%AD%A2%E4%BC%A0%E6%92%AD.json",
-      "name": "ðŸš€ä¸ƒæ˜Ÿå½±ä»“"
+      "name": "🚀七星影仓"
     },   
     {
       "url": "http://2883.kstore.space/nzk/nzk0722.json",
-      "name": "ðŸš€Dä½¬çº¿è·¯"
+      "name": "🚀D佬线路"
     },
     {
       "url": "http://tv.laohu.cool/tvbox.json",
-      "name": "ðŸš€è€è™Žçº¿è·¯"
+      "name": "🚀老虎线路"
     },
     {
-      "url": "http://www.é¥­å¤ªç¡¬.com/tv",
-      "name": "ðŸš€é¥­ç¡¬ä¸“çº¿"
+      "url": "http://www.饭太硬.com/tv",
+      "name": "🚀饭硬专线"
     },
    {
       "url": "https://bitbucket.org/xduo/duoapi/raw/master/xpg.json",
-      "name": "ðŸš€å–µå½±è§†çº¿"
+      "name": "🚀喵影视线"
     },
     {
       "url": "https://ghproxy.cn/https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
-      "name": "ðŸš€Oneçº¿è·¯"
+      "name": "🚀One线路"
     },
 
     {
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json",
-      "name": "ðŸš€å—é£Žçº¿è·¯"
+      "name": "🚀南风线路"
     },
     
         {
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
-      "name": "ðŸš€é¦™é›…æ™´çº¿"
+      "name": "🚀香雅晴线"
     },
     
     {
       "url": "https://git.acwing.com/lw0704/66/-/raw/master/jjzx.json",
-      "name": "ðŸš€åˆ˜ä¼Ÿçº¿è·¯"
+      "name": "🚀刘伟线路"
     },
     
         {
       "url": "https://gongdian.top/tvbox/gongdian",
-      "name": "ðŸš€å®«æ®¿çº¿è·¯"
+      "name": "🚀宫殿线路"
     },
     {
-      "url": "http://tv.nxog.top/m/111.php?ou=å…¬ä¼—å·æ¬§æ­Œ",
-      "name": "ðŸš€è®´æ­Œçº¿è·¯"
+      "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌",
+      "name": "🚀讴歌线路"
     },
    {
-      "name": "ðŸš€å°è™Žæ–‘çº¿",
+      "name": "🚀小虎斑线",
       "url": "https://hb.xyyh.online/tvbox"
     },
 
     {
-      "url": "http://miqk.cc/å°ç±³/DEMO.json",
-      "name": "ðŸš€å°ç±³çº¿è·¯"
+      "url": "http://miqk.cc/小米/DEMO.json",
+      "name": "🚀小米线路"
     },
     {
-      "url": "http://tvbox.çŽ‹äºŒå°æ”¾ç‰›å¨ƒ.top",
-      "name": "ðŸš€çŽ‹äºŒå°çº¿"
+      "url": "http://tvbox.王二小放牛娃.top",
+      "name": "🚀王二小线"
     },
 
     {
-      "url": "http://æˆ‘ä¸æ˜¯.æ‘¸é±¼å„¿.com",
-      "name": "ðŸš€æ‘¸é±¼çº¿è·¯"
+      "url": "http://我不是.摸鱼儿.com",
+      "name": "🚀摸鱼线路"
     },
     {
       "url": "https://6492.kstore.space/xnf/xnf.json",
-      "name": "ðŸš€çŽ¯å®‡è½©çº¿"
+      "name": "🚀环宇轩线"
     },
 
     {
       "url": "http://fmys.top/fmys.json",
-      "name": "ðŸš€é©¸é©¬çº¿è·¯"
+      "name": "🚀驸马线路"
     },
 
         {
       "url": "https://gh-proxy.com/raw.githubusercontent.com/leevi0709/one/main/jsm.json",
-      "name": "ðŸš€å¤šå¤šçº¿è·¯"
+      "name": "🚀多多线路"
     },
     {
-      "url": "http://hello.è‚¥çŒ«.com",
-      "name": "ðŸš€è‚¥çŒ«çº¿è·¯"
+      "url": "http://hello.肥猫.com",
+      "name": "🚀肥猫线路"
     },
        {
-      "name": "ðŸš€å°é©¬çº¿è·¯",
+      "name": "🚀小马线路",
       "url": "https://szyyds.cn/tv/x.json"
     },
     {
-      "name": "ðŸš€ä¿Šä½¬åœ¨çº¿",
+      "name": "🚀俊佬在线",
       "url": "http://home.jundie.top:81/top98.json"
     },
         {
-      "name": "ðŸš€å°è™Žæ–‘çº¿",
-      "url": "http://hb.å°è™Žæ–‘.site:25252/ä»…ä¾›æµ‹è¯•"
+      "name": "🚀小虎斑线",
+      "url": "http://hb.小虎斑.site:25252/仅供测试"
     },
     {
-      "url": "http://hucongrong.web3v.work/é£Žæ°´/fxz/fxz.json",
-      "name": "ðŸš€åˆ†äº«è€…çº¿"
+      "url": "http://hucongrong.web3v.work/风水/fxz/fxz.json",
+      "name": "🚀分享者线"
     },
     {
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/liu673cn/box/main/m.json",
-      "name": "ðŸš€è€åˆ˜çº¿è·¯"
+      "name": "🚀老刘线路"
     },
             {
       "url": "https://chuanshuo.77blog.cn/tv.json",
-      "name": "ðŸš€ä¼ è¯´çº¿è·¯"
+      "name": "🚀传说线路"
     },
         {
       "url": "https://gitee.com/lukei7/lib/raw/Luck/%E8%87%AA%E5%BB%BA.json",
-      "name": "ðŸš€è“å¤©çº¿è·¯"
+      "name": "🚀蓝天线路"
     },
     {
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
-      "name": "ðŸš€é«˜å¤©æµäº‘"
+      "name": "🚀高天流云"
     },
     {
       "url": "http://home.jundie.top:81/top98.json",
-      "name": "ðŸš€ä¿Šä½¬çº¿è·¯"
+      "name": "🚀俊佬线路"
     },
 
     {
       "url": "https://xn--8owq8u.com/tv/",
-      "name": "ðŸš€æ¯’ç›’çº¿è·¯"
+      "name": "🚀毒盒线路"
     },
 
     {
       "url": "https://gitee.com/yiwu369/6758/raw/master/%E9%9D%92%E9%BE%99/1.json",
-      "name": "ðŸš€é’é¾™å½±çº¿"
+      "name": "🚀青龙影线"
     },
     {
       "url": "https://www.yingm.cc/dm/dm.json",
-      "name": "ðŸš€åŠ¨æ¼«å¤§å…¨"
+      "name": "🚀动漫大全"
     }
   ]
 }

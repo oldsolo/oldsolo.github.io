@@ -13,10 +13,6 @@
       "name": "🚀饭硬专线"
     },
     {
-      "url": "https://gongdian.top/tvbox/gongdian",
-      "name": "🚀宫殿线路"
-    },
-    {
       "url": "http://fmys.top/fmys.json",
       "name": "🚀驸马线路"
     },

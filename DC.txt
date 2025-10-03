@@ -5,8 +5,8 @@
       "name": "🚀天微影线"
     },
     {
-      "url": "https://catbox.n13.club/jk/jsm.json",
-      "name": "🚀影视仓"
+      "url": "https://szyyds.cn/tv/x.json",
+      "name": "🚀小马网络"
     },   
     {
       "url": "http://www.饭太硬.com/tv",

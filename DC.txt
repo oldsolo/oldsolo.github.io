@@ -31,6 +31,10 @@
     {
       "url": "http://home.jundie.top:81/top98.json",
       "name": "🚀俊佬线路"
+    },
+    {
+      "url": "https://oldsolo.github.io/dc001.json",
+      "name": "🚀备用线路"
     }
   ]
 }

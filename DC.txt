@@ -1,6 +1,7 @@
 {
 "urls":[
 {"name":"南风【wmdz.com】","url":"https://ghfast.top/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"},
+{"name":"南风2【wmdz.com】","url":"https://play.iptv365.org//%E5%8D%97%E9%A3%8E//api.json"},
 {"name":"青檬【wmdz.com】","url":"https://11293.kstore.space/%E8%A5%BF%E6%9F%9Ays.json"},
 {"name":"二小【wmdz.com】","url":"http://tvbox.王二小放牛娃.top"},
 {"name":"高天【wmdz.com】","url":"https://ghfast.top/https://raw.githubusercontent.com/debaters6/XYQ/master/0821.json"},

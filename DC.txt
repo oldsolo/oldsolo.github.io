@@ -1,9 +1,10 @@
 {
 "urls":[
-{"name":"南风【wmdz.com】","url":"https://ghfast.top/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"},
+{"name":"南风【wmdz.com】","url":"https://oldsolo.github.io/xc.json"},
 {"name":"南风2【wmdz.com】","url":"https://play.iptv365.org//%E5%8D%97%E9%A3%8E//api.json"},
 {"name":"高天【wmdz.com】","url":"https://ghfast.top/https://raw.githubusercontent.com/debaters6/XYQ/master/0821.json"},
 {"name":"香雅【wmdz.com】","url":"https://raw.kkgithub.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"},
-{"name":"茄子【wmdz.com】","url":"https://700sjro44343.vicp.fun/eggp/qzku/tv.json"}
+{"name":"茄子【wmdz.com】","url":"https://700sjro44343.vicp.fun/eggp/qzku/tv.json"},
+{"name":"南风备用【wmdz.com】","url":"https://ghfast.top/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"},
 ]
 }
